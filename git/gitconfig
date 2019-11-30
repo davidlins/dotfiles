@@ -125,3 +125,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	name = David Lins
+	email = davidlins1977@gmail.com
